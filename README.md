@@ -5,7 +5,7 @@ Sports Market Intelligence Platform or SMIP for short is a C++ windows applicati
 
 
 
-we have confirmed profits easily make 1-3k per day on weekends 3-10k on weekends in just one day. and this was before we just added several more bookmakers.
+we have confirmed profits easily make 1-3k per day on weekdays 3-10k on weekends in just one day. and this was before we just added several more bookmakers.
 
 
 
